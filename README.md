@@ -1,6 +1,3 @@
-# Airline_Data_Ingestion
-
-
 # Airline Data Ingestion
 
 This solution automates the daily ingestion and transformation of flight transactional data into Amazon Redshift through a fully managed, AWS-native pipeline architecture.
